@@ -27,18 +27,18 @@
 .list {
     text-align: left;
     font-size: 24px;
-    width: 800px;
+    width: 30%;
     margin: 0 auto;
     
     
 }
 
 .list.ins {
-    width: 800px;
+    width: 40%;
     margin: 0 auto;
 }
 
 .list.ing {
-    width: 800px;
+    width: 30%;
     margin: 0 auto;
 }
